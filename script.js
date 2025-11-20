@@ -271,7 +271,7 @@ async function onCreateRoomClick() {
         const exists = await checkIfEmailPlayed(email);
 
         if (exists) {
-            showModal('Not Allowed', `<p>This email has already played.</p>`, false);
+            showModal('Not Allowed', `<p>You already played.</p>`, false);
             return;
         }
 
@@ -392,7 +392,7 @@ async function onJoinRoomClick() {
         const exists = await checkIfEmailPlayed(email);
 
         if (exists) {
-            showModal('Not Allowed', `<p>This email has already played.</p>`, false);
+            showModal('Not Allowed', `<p>You already played.</p>`, false);
             return;
         }
 
