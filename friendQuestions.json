@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "question": "What’s your friend’s favorite thing to do on weekends?",
+        "options": [
+            "Gaming",
+            "Hanging out",
+            "Travelling",
+            "Watching movies"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "How does your friend like their coffee?",
+        "options": [
+            "Black",
+            "With milk",
+            "With sugar",
+            "They prefer tea"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What’s your friend’s favorite season?",
+        "options": [
+            "Summer",
+            "Winter",
+            "Spring",
+            "Autumn"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Which social media app does your friend use the most?",
+        "options": [
+            "Instagram",
+            "TikTok",
+            "X (Twitter)",
+            "Snapchat"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What’s your friend’s dream vacation spot?",
+        "options": [
+            "Paris",
+            "Tokyo",
+            "Maldives",
+            "New York"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "What’s your friend’s favorite kind of music?",
+        "options": [
+            "Pop",
+            "Rock",
+            "Hip-Hop",
+            "Classical"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "How often does your friend work out?",
+        "options": [
+            "Daily",
+            "A few times a week",
+            "Rarely",
+            "Never"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "If your friend won the lottery, what would they buy first?",
+        "options": [
+            "Car",
+            "House",
+            "Vacation",
+            "Donate to charity"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "What’s your friend’s favorite food cuisine?",
+        "options": [
+            "Italian",
+            "Indian",
+            "Chinese",
+            "Mexican"
+        ]
+    },
+    {
+        "id": 10,
+        "question": "How would your friend spend a rainy day?",
+        "options": [
+            "Sleeping",
+            "Reading",
+            "Watching Netflix",
+            "Cooking"
+        ]
+    },
+    {
+        "id": 11,
+        "question": "What time does your friend usually wake up?",
+        "options": [
+            "Before 6 AM",
+            "Around 8 AM",
+            "10 AM",
+            "After noon"
+        ]
+    },
+    {
+        "id": 12,
+        "question": "What’s your friend’s biggest fear?",
+        "options": [
+            "Heights",
+            "Spiders",
+            "Public speaking",
+            "Being alone"
+        ]
+    },
+    {
+        "id": 13,
+        "question": "Which movie genre does your friend prefer?",
+        "options": [
+            "Comedy",
+            "Horror",
+            "Action",
+            "Romance"
+        ]
+    },
+    {
+        "id": 14,
+        "question": "What’s your friend’s favorite hobby?",
+        "options": [
+            "Drawing",
+            "Dancing",
+            "Reading",
+            "Singing"
+        ]
+    },
+    {
+        "id": 15,
+        "question": "How does your friend prefer to travel?",
+        "options": [
+            "Car",
+            "Plane",
+            "Train",
+            "Bike"
+        ]
+    },
+    {
+        "id": 16,
+        "question": "What’s your friend’s dream job?",
+        "options": [
+            "Actor",
+            "Engineer",
+            "Entrepreneur",
+            "Teacher"
+        ]
+    },
+    {
+        "id": 17,
+        "question": "Which pet would your friend want?",
+        "options": [
+            "Dog",
+            "Cat",
+            "Fish",
+            "No pet"
+        ]
+    },
+    {
+        "id": 18,
+        "question": "What’s your friend’s favorite color?",
+        "options": [
+            "Blue",
+            "Red",
+            "Black",
+            "Green"
+        ]
+    },
+    {
+        "id": 19,
+        "question": "How does your friend usually relax?",
+        "options": [
+            "Listening to music",
+            "Sleeping",
+            "Scrolling on phone",
+            "Meditating"
+        ]
+    },
+    {
+        "id": 20,
+        "question": "What kind of movies does your friend love?",
+        "options": [
+            "Romantic",
+            "Thriller",
+            "Fantasy",
+            "Documentary"
+        ]
+    },
+    {
+        "id": 21,
+        "question": "What’s your friend’s favorite dessert?",
+        "options": [
+            "Ice cream",
+            "Cake",
+            "Brownie",
+            "Donut"
+        ]
+    },
+    {
+        "id": 22,
+        "question": "What’s your friend’s dream car?",
+        "options": [
+            "Tesla",
+            "BMW",
+            "Lamborghini",
+            "Jeep"
+        ]
+    },
+    {
+        "id": 23,
+        "question": "What’s your friend’s favorite holiday?",
+        "options": [
+            "Christmas",
+            "New Year",
+            "Diwali",
+            "Halloween"
+        ]
+    },
+    {
+        "id": 24,
+        "question": "If your friend could live anywhere, where would it be?",
+        "options": [
+            "Beach",
+            "City",
+            "Mountains",
+            "Countryside"
+        ]
+    },
+    {
+        "id": 25,
+        "question": "How long have you known your friend?",
+        "options": [
+            "Less than a year",
+            "1-3 years",
+            "3-5 years",
+            "More than 5 years"
+        ]
+    },
+    {
+        "id": 26,
+        "question": "What type of shows does your friend watch?",
+        "options": [
+            "Reality TV",
+            "Sitcoms",
+            "Drama",
+            "Anime"
+        ]
+    },
+    {
+        "id": 27,
+        "question": "What’s your friend’s go-to comfort food?",
+        "options": [
+            "Pizza",
+            "Burger",
+            "Pasta",
+            "Fries"
+        ]
+    },
+    {
+        "id": 28,
+        "question": "What time does your friend sleep?",
+        "options": [
+            "Before 10 PM",
+            "Around midnight",
+            "After 1 AM",
+            "Whenever"
+        ]
+    },
+    {
+        "id": 29,
+        "question": "What’s your friend’s favorite school subject?",
+        "options": [
+            "Math",
+            "Science",
+            "History",
+            "Art"
+        ]
+    },
+    {
+        "id": 30,
+        "question": "If your friend were a superhero, what would their power be?",
+        "options": [
+            "Flying",
+            "Invisibility",
+            "Super strength",
+            "Reading minds"
+        ]
+    },
+    {
+        "id": 31,
+        "question": "What’s your friend’s favorite sport?",
+        "options": [
+            "Football",
+            "Basketball",
+            "Cricket",
+            "Badminton"
+        ]
+    },
+    {
+        "id": 32,
+        "question": "Who is your friend’s celebrity crush?",
+        "options": [
+            "Taylor Swift",
+            "Zendaya",
+            "Ryan Reynolds",
+            "Chris Hemsworth"
+        ]
+    },
+    {
+        "id": 33,
+        "question": "How often does your friend text back?",
+        "options": [
+            "Immediately",
+            "After a while",
+            "Rarely",
+            "Depends on mood"
+        ]
+    },
+    {
+        "id": 34,
+        "question": "What’s your friend’s favorite clothing style?",
+        "options": [
+            "Casual",
+            "Trendy",
+            "Sporty",
+            "Formal"
+        ]
+    },
+    {
+        "id": 35,
+        "question": "How would your friend spend a day off?",
+        "options": [
+            "Sleeping",
+            "Out with friends",
+            "Shopping",
+            "Netflix marathon"
+        ]
+    },
+    {
+        "id": 36,
+        "question": "What’s your friend’s favorite drink?",
+        "options": [
+            "Coffee",
+            "Tea",
+            "Juice",
+            "Soda"
+        ]
+    },
+    {
+        "id": 37,
+        "question": "What annoys your friend the most?",
+        "options": [
+            "Lies",
+            "Loud noises",
+            "Slow Wi-Fi",
+            "Traffic"
+        ]
+    },
+    {
+        "id": 38,
+        "question": "What’s your friend’s favorite festival?",
+        "options": [
+            "Christmas",
+            "Holi",
+            "Eid",
+            "Halloween"
+        ]
+    },
+    {
+        "id": 39,
+        "question": "What type of movies does your friend avoid?",
+        "options": [
+            "Horror",
+            "Romance",
+            "Action",
+            "Documentary"
+        ]
+    },
+    {
+        "id": 40,
+        "question": "What’s your friend’s favorite ice cream flavor?",
+        "options": [
+            "Vanilla",
+            "Chocolate",
+            "Strawberry",
+            "Mint"
+        ]
+    },
+    {
+        "id": 41,
+        "question": "What time of day is your friend most productive?",
+        "options": [
+            "Morning",
+            "Afternoon",
+            "Evening",
+            "Late night"
+        ]
+    },
+    {
+        "id": 42,
+        "question": "What would your friend choose: Money or Happiness?",
+        "options": [
+            "Money",
+            "Happiness",
+            "Both",
+            "Can’t decide"
+        ]
+    },
+    {
+        "id": 43,
+        "question": "Which platform does your friend stream on?",
+        "options": [
+            "Netflix",
+            "Prime Video",
+            "Disney+",
+            "YouTube"
+        ]
+    },
+    {
+        "id": 44,
+        "question": "What’s your friend’s favorite emoji?",
+        "options": [
+            "😂",
+            "❤️",
+            "🔥",
+            "😎"
+        ]
+    },
+    {
+        "id": 45,
+        "question": "How does your friend usually celebrate birthdays?",
+        "options": [
+            "Party",
+            "Dinner",
+            "Trip",
+            "Stay at home"
+        ]
+    },
+    {
+        "id": 46,
+        "question": "What’s your friend’s favorite subject to talk about?",
+        "options": [
+            "Movies",
+            "Food",
+            "Life",
+            "Gossip"
+        ]
+    },
+    {
+        "id": 47,
+        "question": "Which app does your friend open first every morning?",
+        "options": [
+            "WhatsApp",
+            "Instagram",
+            "YouTube",
+            "Twitter"
+        ]
+    },
+    {
+        "id": 48,
+        "question": "How would your friend react in a scary movie?",
+        "options": [
+            "Scream",
+            "Laugh",
+            "Hide",
+            "Walk out"
+        ]
+    },
+    {
+        "id": 49,
+        "question": "What’s your friend’s hidden talent?",
+        "options": [
+            "Singing",
+            "Drawing",
+            "Cooking",
+            "Storytelling"
+        ]
+    },
+    {
+        "id": 50,
+        "question": "If your friend had a time machine, what would they do?",
+        "options": [
+            "Go to the past",
+            "Go to the future",
+            "Stay in present",
+            "Destroy it"
+        ]
+    },
+    {
+        "id": 51,
+        "question": "What is your friend’s favorite snack?",
+        "options": [
+            "Chips",
+            "Cookies",
+            "Popcorn",
+            "Chocolate"
+        ]
+    },
+    {
+        "id": 52,
+        "question": "How does your friend react under pressure?",
+        "options": [
+            "Stay calm",
+            "Panic",
+            "Overthink",
+            "Ask for help"
+        ]
+    },
+    {
+        "id": 53,
+        "question": "What is your friend’s favorite holiday destination type?",
+        "options": [
+            "Beach",
+            "Mountains",
+            "City",
+            "Countryside"
+        ]
+    },
+    {
+        "id": 54,
+        "question": "What’s your friend’s favorite fruit?",
+        "options": [
+            "Mango",
+            "Apple",
+            "Banana",
+            "Watermelon"
+        ]
+    },
+    {
+        "id": 55,
+        "question": "What’s your friend’s favorite pastime at school or work?",
+        "options": [
+            "Chatting",
+            "Eating",
+            "Listening to music",
+            "Doodling"
+        ]
+    },
+    {
+        "id": 56,
+        "question": "What would your friend do if bored?",
+        "options": [
+            "Scroll social media",
+            "Sleep",
+            "Call someone",
+            "Eat"
+        ]
+    },
+    {
+        "id": 57,
+        "question": "Which animal best represents your friend’s personality?",
+        "options": [
+            "Dog",
+            "Cat",
+            "Fox",
+            "Panda"
+        ]
+    },
+    {
+        "id": 58,
+        "question": "How does your friend express excitement?",
+        "options": [
+            "Shouting",
+            "Smiling",
+            "Dancing",
+            "Jumping"
+        ]
+    },
+    {
+        "id": 59,
+        "question": "What’s your friend’s favorite pizza topping?",
+        "options": [
+            "Cheese",
+            "Pepperoni",
+            "Veggies",
+            "Chicken"
+        ]
+    },
+    {
+        "id": 60,
+        "question": "What’s your friend’s favorite weather?",
+        "options": [
+            "Rainy",
+            "Sunny",
+            "Windy",
+            "Snowy"
+        ]
+    },
+    {
+        "id": 61,
+        "question": "What’s your friend’s guilty pleasure?",
+        "options": [
+            "Reality shows",
+            "Chocolate",
+            "Shopping",
+            "Sleeping in"
+        ]
+    },
+    {
+        "id": 62,
+        "question": "What’s your friend’s favorite board game?",
+        "options": [
+            "Monopoly",
+            "Ludo",
+            "Chess",
+            "Uno"
+        ]
+    },
+    {
+        "id": 63,
+        "question": "What’s your friend’s favorite flower?",
+        "options": [
+            "Rose",
+            "Lily",
+            "Tulip",
+            "Sunflower"
+        ]
+    },
+    {
+        "id": 64,
+        "question": "Which subject did your friend hate in school?",
+        "options": [
+            "Math",
+            "Science",
+            "English",
+            "History"
+        ]
+    },
+    {
+        "id": 65,
+        "question": "What’s your friend’s biggest pet peeve?",
+        "options": [
+            "Interruptions",
+            "Loud chewing",
+            "Slow walkers",
+            "Messiness"
+        ]
+    },
+    {
+        "id": 66,
+        "question": "How does your friend usually spend Sunday mornings?",
+        "options": [
+            "Sleeping",
+            "Exercising",
+            "Cleaning",
+            "Brunch out"
+        ]
+    },
+    {
+        "id": 67,
+        "question": "What’s your friend’s favorite time of the year?",
+        "options": [
+            "Winter",
+            "Summer",
+            "Spring",
+            "Autumn"
+        ]
+    },
+    {
+        "id": 68,
+        "question": "What’s your friend’s ideal night out?",
+        "options": [
+            "Dinner",
+            "Movies",
+            "Clubbing",
+            "Concert"
+        ]
+    },
+    {
+        "id": 69,
+        "question": "What’s your friend’s favorite subject to debate about?",
+        "options": [
+            "Politics",
+            "Movies",
+            "Sports",
+            "Philosophy"
+        ]
+    },
+    {
+        "id": 70,
+        "question": "What’s your friend’s favorite fast food chain?",
+        "options": [
+            "McDonald’s",
+            "KFC",
+            "Subway",
+            "Domino’s"
+        ]
+    },
+    {
+        "id": 71,
+        "question": "What’s your friend’s favorite sweet treat?",
+        "options": [
+            "Cupcake",
+            "Brownie",
+            "Ice cream",
+            "Candy"
+        ]
+    },
+    {
+        "id": 72,
+        "question": "What type of gifts does your friend love?",
+        "options": [
+            "Personalized",
+            "Expensive",
+            "Handmade",
+            "Surprise gifts"
+        ]
+    },
+    {
+        "id": 73,
+        "question": "What’s your friend’s favorite TV character?",
+        "options": [
+            "Chandler Bing",
+            "Sherlock Holmes",
+            "Michael Scott",
+            "Eleven"
+        ]
+    },
+    {
+        "id": 74,
+        "question": "If your friend could be famous, what for?",
+        "options": [
+            "Acting",
+            "Singing",
+            "Gaming",
+            "Writing"
+        ]
+    },
+    {
+        "id": 75,
+        "question": "What’s your friend’s favorite mobile game?",
+        "options": [
+            "PUBG",
+            "Candy Crush",
+            "Clash Royale",
+            "Among Us"
+        ]
+    },
+    {
+        "id": 76,
+        "question": "What’s your friend’s favorite animal?",
+        "options": [
+            "Dog",
+            "Cat",
+            "Rabbit",
+            "Bird"
+        ]
+    },
+    {
+        "id": 77,
+        "question": "What’s your friend’s favorite color to wear?",
+        "options": [
+            "Black",
+            "White",
+            "Blue",
+            "Pink"
+        ]
+    },
+    {
+        "id": 78,
+        "question": "What’s your friend’s favorite outdoor activity?",
+        "options": [
+            "Cycling",
+            "Running",
+            "Picnic",
+            "Photography"
+        ]
+    },
+    {
+        "id": 79,
+        "question": "What’s your friend’s favorite indoor activity?",
+        "options": [
+            "Watching movies",
+            "Cooking",
+            "Reading",
+            "Gaming"
+        ]
+    },
+    {
+        "id": 80,
+        "question": "What’s your friend’s favorite phone brand?",
+        "options": [
+            "Apple",
+            "Samsung",
+            "OnePlus",
+            "Xiaomi"
+        ]
+    },
+    {
+        "id": 81,
+        "question": "What’s your friend’s favorite festival activity?",
+        "options": [
+            "Decorating",
+            "Eating sweets",
+            "Meeting friends",
+            "Fireworks"
+        ]
+    },
+    {
+        "id": 82,
+        "question": "What’s your friend’s favorite subject to study?",
+        "options": [
+            "Math",
+            "Art",
+            "Science",
+            "English"
+        ]
+    },
+    {
+        "id": 83,
+        "question": "What’s your friend’s favorite holiday memory?",
+        "options": [
+            "Beach trip",
+            "Family gathering",
+            "Mountain vacation",
+            "Festival night"
+        ]
+    },
+    {
+        "id": 84,
+        "question": "What’s your friend’s favorite childhood cartoon?",
+        "options": [
+            "Tom & Jerry",
+            "Ben 10",
+            "SpongeBob",
+            "Doraemon"
+        ]
+    },
+    {
+        "id": 85,
+        "question": "How does your friend start their morning?",
+        "options": [
+            "Coffee",
+            "Scrolling phone",
+            "Workout",
+            "Meditation"
+        ]
+    },
+    {
+        "id": 86,
+        "question": "What’s your friend’s favorite book genre?",
+        "options": [
+            "Romance",
+            "Thriller",
+            "Fantasy",
+            "Non-fiction"
+        ]
+    },
+    {
+        "id": 87,
+        "question": "What’s your friend’s dream city to visit?",
+        "options": [
+            "London",
+            "Paris",
+            "Dubai",
+            "Seoul"
+        ]
+    },
+    {
+        "id": 88,
+        "question": "What’s your friend’s favorite tech gadget?",
+        "options": [
+            "Phone",
+            "Laptop",
+            "Smartwatch",
+            "Tablet"
+        ]
+    },
+    {
+        "id": 89,
+        "question": "What’s your friend’s favorite quote style?",
+        "options": [
+            "Motivational",
+            "Funny",
+            "Love",
+            "Philosophical"
+        ]
+    },
+    {
+        "id": 90,
+        "question": "What’s your friend’s favorite social activity?",
+        "options": [
+            "Party",
+            "Picnic",
+            "Concert",
+            "Dinner out"
+        ]
+    },
+    {
+        "id": 91,
+        "question": "What’s your friend’s ideal weekend vibe?",
+        "options": [
+            "Chill at home",
+            "Adventure",
+            "Socializing",
+            "Sleep marathon"
+        ]
+    },
+    {
+        "id": 92,
+        "question": "How does your friend handle stress?",
+        "options": [
+            "Music",
+            "Sleep",
+            "Talk to friends",
+            "Eat snacks"
+        ]
+    },
+    {
+        "id": 93,
+        "question": "What’s your friend’s favorite kind of movie ending?",
+        "options": [
+            "Happy",
+            "Sad",
+            "Twist",
+            "Open-ended"
+        ]
+    },
+    {
+        "id": 94,
+        "question": "What’s your friend’s favorite ride at an amusement park?",
+        "options": [
+            "Roller coaster",
+            "Ferris wheel",
+            "Bumper cars",
+            "Haunted house"
+        ]
+    },
+    {
+        "id": 95,
+        "question": "What’s your friend’s favorite quote type?",
+        "options": [
+            "Motivational",
+            "Funny",
+            "Inspirational",
+            "Romantic"
+        ]
+    },
+    {
+        "id": 96,
+        "question": "What’s your friend’s favorite outfit type?",
+        "options": [
+            "Casual",
+            "Trendy",
+            "Ethnic",
+            "Formal"
+        ]
+    },
+    {
+        "id": 97,
+        "question": "What’s your friend’s favorite game to play together?",
+        "options": [
+            "Truth or Dare",
+            "Charades",
+            "UNO",
+            "Video games"
+        ]
+    },
+    {
+        "id": 98,
+        "question": "What’s your friend’s favorite moment with you?",
+        "options": [
+            "Trip",
+            "First meet",
+            "Birthday",
+            "Random hangout"
+        ]
+    },
+    {
+        "id": 99,
+        "question": "What’s your friend’s favorite drink on a hot day?",
+        "options": [
+            "Iced coffee",
+            "Smoothie",
+            "Lemonade",
+            "Cola"
+        ]
+    },
+    {
+        "id": 100,
+        "question": "What’s your friend’s favorite way to relax after a long day?",
+        "options": [
+            "Netflix",
+            "Music",
+            "Sleep",
+            "Scroll social media"
+        ]
+    }
+]

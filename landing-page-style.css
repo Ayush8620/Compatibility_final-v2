@@ -1,0 +1,540 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap');
+
+
+
+
+/* --- Global Styles & Variables (Crensa Theme - Enhanced) --- */
+/* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap'); */
+
+:root {
+    /* Crensa Palette */
+    --crensa-navy: #01164D;
+    --crensa-green: #62CF6F;
+    --crensa-teal: #00BA9C;
+    --crensa-rose: #D9208F;
+    --crensa-pink: #C81D84;
+    --crensa-lime: #D5E73C;
+
+    /* Gradients & Shadows */
+    --primary-gradient: linear-gradient(135deg, var(--crensa-rose) 0%, var(--crensa-pink) 100%);
+    --secondary-gradient: linear-gradient(135deg, var(--crensa-green) 0%, var(--crensa-teal) 100%);
+    --text-shadow-light: 0 3px 5px rgba(255, 255, 255, 0.4);
+    --card-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+
+    /* Glassmorphism */
+    --glass-bg: rgba(255, 255, 255, 0.1);
+    --glass-border: rgba(255, 255, 255, 0.2);
+    --glass-blur: blur(10px);
+
+    /* Mapped Variables */
+    --primary-color: var(--crensa-navy);
+    --secondary-color: var(--crensa-rose);
+    --background-color: #f4f7f9;
+    --card-background: #ffffff;
+    --text-color: #333333;
+    --border-color: #e0e0e0;
+    --success-color: var(--crensa-green);
+    --danger-color: #F44336;
+    --font-family: 'Arial', sans-serif;
+    --heading-font: 'Playfair Display', serif;
+    --bg-fallback: linear-gradient(270deg, var(--crensa-navy), var(--crensa-teal), var(--crensa-rose));
+}
+
+/* --- Keyframes for Dynamic Background & Animations --- */
+@keyframes backgroundMovement {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes float {
+
+    0%,
+    100% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+/* 🚀 Dynamic Background & Global Styling */
+h1 {
+    /* Enhanced Text Look with Gradient and Shadow */
+    font-family: var(--heading-font);
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    background: var(--primary-gradient);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    text-align: center;
+    text-shadow: var(--text-shadow-light);
+    letter-spacing: 1px;
+}
+
+
+:root {
+    --crensa-navy: #01164D;
+    --crensa-green: #62CF6F;
+    --crensa-teal: #00BA9C;
+    --crensa-lime: #D5E73C;
+    --crensa-yellow: #CCE53F;
+    --bg-gradient: linear-gradient(135deg, #9be7ff, #b0ffd8);
+}
+
+/* Responsive base */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background: var(--crensa-teal);
+    color: var(--crensa-navy);
+}
+
+/* --- Navigation Bar --- */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 0.95);
+    /* Semi-transparent */
+    backdrop-filter: blur(5px);
+    /* Modern blur effect */
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
+    z-index: 1000;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.nav-brand {
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.nav-menu {
+    display: flex;
+    gap: 5px;
+}
+
+.nav-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50%;
+    transition: all 0.2s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-btn:hover {
+    background-color: rgba(1, 22, 77, 0.1);
+    transform: scale(1.1);
+}
+
+.nav-icon-container {
+    width: 24px;
+    height: 24px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.nav-icon {
+    width: 100%;
+    height: 100%;
+    color: var(--primary-color);
+    transition: color 0.2s;
+}
+
+.nav-btn:hover .nav-icon {
+    color: var(--crensa-rose);
+}
+
+/* HERO SECTION */
+.hero {
+    text-align: center;
+    padding: 2px 0px 10px 0px;
+    color: #fff;
+    margin-top: 60px;
+}
+
+.hero .content {
+    max-width: 800px;
+    margin: auto;
+}
+
+.hero h1 {
+    font-size: clamp(28px, 6vw, 55px);
+    font-weight: 800;
+    line-height: 1.15;
+}
+
+.hero h1 span {
+    color: var(--crensa-lime);
+}
+
+.subtext {
+    margin-top: 20px;
+    font-size: clamp(15px, 2.2vw, 20px);
+    color: #f0f0f0;
+}
+
+.highlight {
+    margin-top: 15px;
+    font-weight: 600;
+    color: var(--crensa-yellow);
+    font-size: clamp(14px, 1.8vw, 18px);
+}
+
+.cta-btn {
+    display: inline-block;
+    margin-top: 30px;
+    padding: clamp(12px, 1.5vw, 18px) clamp(20px, 3.5vw, 35px);
+    font-size: clamp(15px, 1.8vw, 18px);
+    font-weight: 600;
+    color: var(--crensa-navy);
+    background: var(--crensa-green);
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    text-decoration: none;
+}
+
+.cta-btn:hover {
+    transform: translateY(-3px);
+    opacity: 0.9;
+}
+
+.trust-info {
+    margin-top: 20px;
+    color: #fff;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.trust-info span {
+    margin: 0 6px;
+}
+
+/* FEATURES SECTION */
+.features {
+    padding: 2px 40px;
+    text-align: center;
+}
+
+.features h2 {
+    font-size: clamp(28px, 5vw, 40px);
+    margin-bottom: 40px;
+    color: var(--crensa-navy);
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
+    align-items: center;
+    justify-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card {
+    background: white;
+    padding: 30px 20px;
+    width: 100%;
+    max-width: 320px;
+    border-radius: 18px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+.card h3 {
+    margin: 0;
+    font-size: clamp(18px, 4vw, 24px);
+    color: var(--crensa-navy);
+}
+
+.card p {
+    margin-top: 12px;
+    color: #555;
+    font-size: clamp(14px, 2vw, 16px);
+}
+
+/* CTA BOTTOM */
+.cta-bottom {
+    background: #90fd8d;
+    padding: 60px 20px;
+    text-align: center;
+    color: white;
+}
+
+.cta-bottom h2 {
+    font-size: clamp(28px, 5vw, 40px);
+    margin-bottom: 25px;
+}
+
+.big {
+    padding: 16px 40px;
+    font-size: clamp(16px, 3vw, 22px);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .hero {
+        padding: 2px 26px;
+    }
+
+    .features {
+        padding: 50px 16px;
+    }
+
+    .features h2 {
+        font-size: clamp(24px, 4.5vw, 32px);
+        margin-bottom: 30px;
+    }
+
+    .cards {
+        gap: 20px;
+    }
+
+    .card {
+        padding: 20px 16px;
+        max-width: 100%;
+    }
+
+    .nav-logo {
+        height: 35px;
+        width: 35px;
+    }
+
+    .nav-icon-container {
+        width: 24px;
+        height: 24px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        padding-top: 60px;
+    }
+
+    .hero {
+        margin-top: 10px;
+    }
+
+    .hero h1 {
+        font-size: clamp(22px, 5.5vw, 32px);
+        line-height: 1.2;
+    }
+
+    .subtext,
+    .highlight {
+        text-align: center;
+        font-size: clamp(14px, 1.8vw, 16px);
+    }
+
+    .cta-btn {
+        margin-top: 20px;
+        padding: 13px 24px;
+        font-size: clamp(14px, 1.5vw, 16px);
+        display: block;
+        width: auto;
+    }
+
+    .trust-info {
+        margin-top: 15px;
+        gap: 8px;
+    }
+
+    .trust-info span {
+        margin: 0 4px;
+        font-size: 12px;
+    }
+
+    .features {
+        padding: 40px 14px;
+    }
+
+    .features h2 {
+        font-size: clamp(20px, 4vw, 28px);
+        margin-bottom: 25px;
+    }
+
+    .cards {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+
+    .card {
+        padding: 20px 14px;
+        max-width: 100%;
+    }
+
+    .card h3 {
+        font-size: clamp(18px, 3.5vw, 22px);
+    }
+
+    .card p {
+        font-size: 14px;
+    }
+
+    .nav-logo {
+        height: 32px;
+        width: 32px;
+    }
+
+    .nav-icon-container {
+        width: 22px;
+        height: 22px;
+    }
+
+    .cta-bottom {
+        padding: 40px 14px;
+    }
+
+    .cta-bottom h2 {
+        font-size: clamp(20px, 4vw, 32px);
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 360px) {
+    .hero {
+        margin-top: 2px;
+    }
+
+    .hero h1 {
+        font-size: clamp(20px, 5vw, 28px);
+    }
+
+    .hero h1 br {
+        display: none;
+    }
+
+    .subtext {
+        font-size: 13px;
+    }
+
+    .highlight {
+        font-size: 12px;
+        margin-top: 10px;
+    }
+
+    .cta-btn {
+        padding: 12px 20px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+
+    .trust-info {
+        margin-top: 12px;
+        gap: 6px;
+        font-size: 11px;
+    }
+
+    .trust-info span {
+        margin: 0 2px;
+    }
+
+    .features {
+        padding: 35px 12px;
+    }
+
+    .features h2 {
+        font-size: clamp(18px, 3.5vw, 24px);
+        margin-bottom: 20px;
+    }
+
+    .cards {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+    .card {
+        padding: 16px 12px;
+    }
+
+    .card h3 {
+        font-size: 18px;
+    }
+
+    .card p {
+        font-size: 13px;
+        margin-top: 8px;
+    }
+
+    .nav-menu {
+        gap: 3px;
+    }
+
+    .nav-btn {
+        padding: 8px;
+    }
+
+    .nav-logo {
+        height: 30px;
+        width: 30px;
+    }
+
+    .nav-icon-container {
+        width: 20px;
+        height: 20px;
+    }
+}

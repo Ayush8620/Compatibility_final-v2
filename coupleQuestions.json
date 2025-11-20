@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "question": "How do you prefer to spend a quiet evening together?",
+        "options": [
+            "Cooking dinner",
+            "Watching a movie",
+            "Talking for hours",
+            "Reading side by side"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Which gift would mean the most to your partner?",
+        "options": [
+            "Handwritten letter",
+            "Surprise trip",
+            "Favorite food",
+            "Jewelry"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What’s your partner’s ideal vacation type?",
+        "options": [
+            "Beach",
+            "Mountains",
+            "City adventure",
+            "Staycation"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Who takes longer to get ready?",
+        "options": [
+            "Me",
+            "My partner",
+            "Same time",
+            "Depends on the day"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What’s your go-to comfort activity as a couple?",
+        "options": [
+            "Watching Netflix",
+            "Going for a walk",
+            "Ordering food",
+            "Cuddling"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "If you had a day off together, what would you do first?",
+        "options": [
+            "Sleep in",
+            "Go for brunch",
+            "Go shopping",
+            "Go hiking"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "How do you usually solve arguments?",
+        "options": [
+            "Talk it out",
+            "Ignore until calm",
+            "One apologizes",
+            "Laugh it off"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "What’s your partner’s favorite dessert?",
+        "options": [
+            "Chocolate cake",
+            "Ice cream",
+            "Cheesecake",
+            "Donuts"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Which of you says 'I love you' more often?",
+        "options": [
+            "Me",
+            "Partner",
+            "Equally",
+            "Not sure"
+        ]
+    },
+    {
+        "id": 10,
+        "question": "How do you celebrate anniversaries?",
+        "options": [
+            "Dinner date",
+            "Trip",
+            "Movie night",
+            "Forget and laugh later"
+        ]
+    },
+    {
+        "id": 11,
+        "question": "What makes your partner laugh most?",
+        "options": [
+            "Funny memes",
+            "Dad jokes",
+            "Inside jokes",
+            "Comedy shows"
+        ]
+    },
+    {
+        "id": 12,
+        "question": "How do you show affection most often?",
+        "options": [
+            "Hugs",
+            "Words",
+            "Acts of service",
+            "Gifts"
+        ]
+    },
+    {
+        "id": 13,
+        "question": "What’s the biggest pet peeve your partner has?",
+        "options": [
+            "Messy room",
+            "Loud chewing",
+            "Being late",
+            "Interrupting"
+        ]
+    },
+    {
+        "id": 14,
+        "question": "If your relationship was a movie genre, what would it be?",
+        "options": [
+            "Rom-com",
+            "Drama",
+            "Adventure",
+            "Mystery"
+        ]
+    },
+    {
+        "id": 15,
+        "question": "Who plans dates more often?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "We don’t plan"
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Your partner wins a million dollars. What’s the first thing they buy?",
+        "options": [
+            "House",
+            "Car",
+            "Vacation",
+            "Gadgets"
+        ]
+    },
+    {
+        "id": 17,
+        "question": "Which animal best represents your relationship?",
+        "options": [
+            "Penguins",
+            "Lions",
+            "Turtles",
+            "Lovebirds"
+        ]
+    },
+    {
+        "id": 18,
+        "question": "What do you argue about most often?",
+        "options": [
+            "Food",
+            "Time",
+            "Money",
+            "Chores"
+        ]
+    },
+    {
+        "id": 19,
+        "question": "Who apologizes first after a fight?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "No one"
+        ]
+    },
+    {
+        "id": 20,
+        "question": "Which phrase best fits your partner?",
+        "options": [
+            "Hopeless romantic",
+            "Practical realist",
+            "Dreamer",
+            "Comedian"
+        ]
+    },
+    {
+        "id": 21,
+        "question": "How would you describe your relationship in one word?",
+        "options": [
+            "Fun",
+            "Strong",
+            "Balanced",
+            "Crazy"
+        ]
+    },
+    {
+        "id": 22,
+        "question": "What color best represents your love?",
+        "options": [
+            "Red",
+            "Blue",
+            "Pink",
+            "Gold"
+        ]
+    },
+    {
+        "id": 23,
+        "question": "What song reminds you most of each other?",
+        "options": [
+            "Love Story",
+            "Perfect",
+            "Shallow",
+            "Other"
+        ]
+    },
+    {
+        "id": 24,
+        "question": "How do you usually spend weekends?",
+        "options": [
+            "Together always",
+            "Sometimes apart",
+            "With friends",
+            "Working"
+        ]
+    },
+    {
+        "id": 25,
+        "question": "What’s your partner’s favorite breakfast?",
+        "options": [
+            "Pancakes",
+            "Omelette",
+            "Cereal",
+            "Nothing"
+        ]
+    },
+    {
+        "id": 26,
+        "question": "Who remembers important dates better?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 27,
+        "question": "Your partner is upset. What do you do?",
+        "options": [
+            "Give space",
+            "Hug them",
+            "Crack a joke",
+            "Talk it out"
+        ]
+    },
+    {
+        "id": 28,
+        "question": "What’s your dream date location?",
+        "options": [
+            "Paris",
+            "Bali",
+            "New York",
+            "Santorini"
+        ]
+    },
+    {
+        "id": 29,
+        "question": "What do you love most about each other?",
+        "options": [
+            "Kindness",
+            "Humor",
+            "Loyalty",
+            "Energy"
+        ]
+    },
+    {
+        "id": 30,
+        "question": "If you had to binge a show together, what genre would it be?",
+        "options": [
+            "Comedy",
+            "Thriller",
+            "Romance",
+            "Reality TV"
+        ]
+    },
+    {
+        "id": 31,
+        "question": "Who is more likely to forget to reply to texts?",
+        "options": [
+            "Me",
+            "Partner",
+            "Neither",
+            "Both"
+        ]
+    },
+    {
+        "id": 32,
+        "question": "How often do you compliment each other?",
+        "options": [
+            "Daily",
+            "Often",
+            "Sometimes",
+            "Rarely"
+        ]
+    },
+    {
+        "id": 33,
+        "question": "Who is more adventurous?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 34,
+        "question": "How do you celebrate small wins?",
+        "options": [
+            "Dinner",
+            "Drinks",
+            "Movie",
+            "Hugs"
+        ]
+    },
+    {
+        "id": 35,
+        "question": "Your love language is mostly:",
+        "options": [
+            "Words",
+            "Touch",
+            "Gifts",
+            "Acts of service"
+        ]
+    },
+    {
+        "id": 36,
+        "question": "If your relationship were a drink, what would it be?",
+        "options": [
+            "Coffee",
+            "Wine",
+            "Juice",
+            "Champagne"
+        ]
+    },
+    {
+        "id": 37,
+        "question": "Who spends more time on social media?",
+        "options": [
+            "Me",
+            "Partner",
+            "Same",
+            "Not sure"
+        ]
+    },
+    {
+        "id": 38,
+        "question": "Who plans surprises better?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 39,
+        "question": "How do you handle long distance?",
+        "options": [
+            "Daily calls",
+            "Texts",
+            "Video chats",
+            "Surprises"
+        ]
+    },
+    {
+        "id": 40,
+        "question": "Which season feels most romantic to you both?",
+        "options": [
+            "Spring",
+            "Summer",
+            "Autumn",
+            "Winter"
+        ]
+    },
+    {
+        "id": 41,
+        "question": "What do you love doing together the most?",
+        "options": [
+            "Eating",
+            "Talking",
+            "Travelling",
+            "Laughing"
+        ]
+    },
+    {
+        "id": 42,
+        "question": "Who gives better gifts?",
+        "options": [
+            "Me",
+            "Partner",
+            "Equal",
+            "Neither"
+        ]
+    },
+    {
+        "id": 43,
+        "question": "If your partner were a dessert, they’d be:",
+        "options": [
+            "Chocolate",
+            "Cupcake",
+            "Brownie",
+            "Ice cream"
+        ]
+    },
+    {
+        "id": 44,
+        "question": "What’s your couple motto?",
+        "options": [
+            "Together always",
+            "Love & laughter",
+            "No drama",
+            "Team us"
+        ]
+    },
+    {
+        "id": 45,
+        "question": "Which emoji best represents your relationship?",
+        "options": [
+            "❤️",
+            "😂",
+            "🔥",
+            "💫"
+        ]
+    },
+    {
+        "id": 46,
+        "question": "Who falls asleep first while watching a movie?",
+        "options": [
+            "Me",
+            "Partner",
+            "Depends",
+            "Neither"
+        ]
+    },
+    {
+        "id": 47,
+        "question": "How do you prefer to spend your mornings together?",
+        "options": [
+            "Coffee in bed",
+            "Workout",
+            "Cooking",
+            "Sleeping in"
+        ]
+    },
+    {
+        "id": 48,
+        "question": "What’s something you always laugh about?",
+        "options": [
+            "Inside joke",
+            "Funny fail",
+            "Meme",
+            "Old story"
+        ]
+    },
+    {
+        "id": 49,
+        "question": "Who’s more likely to plan a surprise trip?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 50,
+        "question": "Your ideal relationship goal?",
+        "options": [
+            "Adventure",
+            "Peace",
+            "Growth",
+            "Laughter"
+        ]
+    },
+    {
+        "id": 51,
+        "question": "Which pet would you both want?",
+        "options": [
+            "Dog",
+            "Cat",
+            "Rabbit",
+            "No pets"
+        ]
+    },
+    {
+        "id": 52,
+        "question": "Who texts first more often?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Depends"
+        ]
+    },
+    {
+        "id": 53,
+        "question": "What’s one word your partner says too often?",
+        "options": [
+            "Babe",
+            "Literally",
+            "Okay",
+            "Bruh"
+        ]
+    },
+    {
+        "id": 54,
+        "question": "How often do you eat out together?",
+        "options": [
+            "Weekly",
+            "Monthly",
+            "Rarely",
+            "Daily"
+        ]
+    },
+    {
+        "id": 55,
+        "question": "Who snores louder?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 56,
+        "question": "How do you comfort each other on bad days?",
+        "options": [
+            "Hug",
+            "Listen",
+            "Distract",
+            "Space"
+        ]
+    },
+    {
+        "id": 57,
+        "question": "What’s your partner’s favorite color?",
+        "options": [
+            "Blue",
+            "Black",
+            "Pink",
+            "Green"
+        ]
+    },
+    {
+        "id": 58,
+        "question": "What’s the one thing you both can’t agree on?",
+        "options": [
+            "Movies",
+            "Food",
+            "Sleep schedule",
+            "Music"
+        ]
+    },
+    {
+        "id": 59,
+        "question": "Who’s more talkative?",
+        "options": [
+            "Me",
+            "Partner",
+            "Equal",
+            "Neither"
+        ]
+    },
+    {
+        "id": 60,
+        "question": "How would your partner describe you?",
+        "options": [
+            "Caring",
+            "Funny",
+            "Serious",
+            "Chill"
+        ]
+    },
+    {
+        "id": 61,
+        "question": "Who makes more spontaneous plans?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 62,
+        "question": "Which of you is the better cook?",
+        "options": [
+            "Me",
+            "Partner",
+            "Equal",
+            "Takeout always"
+        ]
+    },
+    {
+        "id": 63,
+        "question": "What’s the most romantic thing you’ve done?",
+        "options": [
+            "Planned surprise",
+            "Gifted something special",
+            "Love letter",
+            "Trip"
+        ]
+    },
+    {
+        "id": 64,
+        "question": "What’s one word to describe your chemistry?",
+        "options": [
+            "Magnetic",
+            "Chill",
+            "Crazy",
+            "Warm"
+        ]
+    },
+    {
+        "id": 65,
+        "question": "If you both were a famous duo, who would you be?",
+        "options": [
+            "Romeo & Juliet",
+            "Bonnie & Clyde",
+            "Ross & Rachel",
+            "Shrek & Fiona"
+        ]
+    },
+    {
+        "id": 66,
+        "question": "Your favorite time of day together?",
+        "options": [
+            "Morning",
+            "Evening",
+            "Night",
+            "Anytime"
+        ]
+    },
+    {
+        "id": 67,
+        "question": "How do you celebrate birthdays?",
+        "options": [
+            "Party",
+            "Trip",
+            "Dinner",
+            "Gift exchange"
+        ]
+    },
+    {
+        "id": 68,
+        "question": "Who is more likely to cry during a movie?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 69,
+        "question": "What’s one thing your partner always says?",
+        "options": [
+            "I’m hungry",
+            "I’m tired",
+            "I love you",
+            "Let’s go out"
+        ]
+    },
+    {
+        "id": 70,
+        "question": "Who is the better planner?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 71,
+        "question": "If your love had a soundtrack, what genre would it be?",
+        "options": [
+            "Pop",
+            "Jazz",
+            "Rock",
+            "Lo-fi"
+        ]
+    },
+    {
+        "id": 72,
+        "question": "Who remembers your first date better?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 73,
+        "question": "What’s your couple bucket list goal?",
+        "options": [
+            "Travel",
+            "Buy house",
+            "Pet",
+            "Business"
+        ]
+    },
+    {
+        "id": 74,
+        "question": "Who is more organized?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 75,
+        "question": "What’s your shared favorite food?",
+        "options": [
+            "Pizza",
+            "Burger",
+            "Pasta",
+            "Sushi"
+        ]
+    },
+    {
+        "id": 76,
+        "question": "What’s your dream life together?",
+        "options": [
+            "City",
+            "Beach",
+            "Countryside",
+            "Abroad"
+        ]
+    },
+    {
+        "id": 77,
+        "question": "Who’s more romantic?",
+        "options": [
+            "Me",
+            "Partner",
+            "Equal",
+            "Depends"
+        ]
+    },
+    {
+        "id": 78,
+        "question": "If you could relive one memory, what would it be?",
+        "options": [
+            "First date",
+            "Trip",
+            "First kiss",
+            "Proposal"
+        ]
+    },
+    {
+        "id": 79,
+        "question": "Your favorite holiday to spend together?",
+        "options": [
+            "Christmas",
+            "New Year",
+            "Valentine’s",
+            "Any weekend"
+        ]
+    },
+    {
+        "id": 80,
+        "question": "What do you call each other the most?",
+        "options": [
+            "Babe",
+            "Love",
+            "Dude",
+            "Nickname"
+        ]
+    },
+    {
+        "id": 81,
+        "question": "Who’s more patient?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 82,
+        "question": "How do you cheer up your partner?",
+        "options": [
+            "Joke",
+            "Gift",
+            "Hug",
+            "Food"
+        ]
+    },
+    {
+        "id": 83,
+        "question": "What’s your favorite shared hobby?",
+        "options": [
+            "Cooking",
+            "Gaming",
+            "Travelling",
+            "Watching shows"
+        ]
+    },
+    {
+        "id": 84,
+        "question": "Who wakes up earlier?",
+        "options": [
+            "Me",
+            "Partner",
+            "Same",
+            "Depends"
+        ]
+    },
+    {
+        "id": 85,
+        "question": "Who is more likely to forget keys or wallet?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 86,
+        "question": "Your partner’s dream job is?",
+        "options": [
+            "Artist",
+            "Entrepreneur",
+            "Doctor",
+            "Traveler"
+        ]
+    },
+    {
+        "id": 87,
+        "question": "Who is more adventurous with food?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 88,
+        "question": "Who shops more?",
+        "options": [
+            "Me",
+            "Partner",
+            "Equal",
+            "None"
+        ]
+    },
+    {
+        "id": 89,
+        "question": "Your relationship superpower is:",
+        "options": [
+            "Patience",
+            "Humor",
+            "Trust",
+            "Support"
+        ]
+    },
+    {
+        "id": 90,
+        "question": "Favorite thing about mornings with your partner?",
+        "options": [
+            "Coffee",
+            "Conversation",
+            "Cuddles",
+            "Silence"
+        ]
+    },
+    {
+        "id": 91,
+        "question": "Who’s more dramatic?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 92,
+        "question": "What’s your partner’s favorite song genre?",
+        "options": [
+            "Pop",
+            "Rock",
+            "Classical",
+            "Indie"
+        ]
+    },
+    {
+        "id": 93,
+        "question": "Who cooks breakfast more often?",
+        "options": [
+            "Me",
+            "Partner",
+            "Equal",
+            "None"
+        ]
+    },
+    {
+        "id": 94,
+        "question": "If you had a theme song as a couple, it would be:",
+        "options": [
+            "Love Story",
+            "Perfect",
+            "Can’t Stop the Feeling",
+            "Shape of You"
+        ]
+    },
+    {
+        "id": 95,
+        "question": "Who’s more likely to sing randomly?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 96,
+        "question": "Your favorite shared movie?",
+        "options": [
+            "Titanic",
+            "Avengers",
+            "Notebook",
+            "Harry Potter"
+        ]
+    },
+    {
+        "id": 97,
+        "question": "Who is more forgetful?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 98,
+        "question": "Who’s the better secret keeper?",
+        "options": [
+            "Me",
+            "Partner",
+            "Both",
+            "Neither"
+        ]
+    },
+    {
+        "id": 99,
+        "question": "What’s one thing that always brings you closer?",
+        "options": [
+            "Honesty",
+            "Laughter",
+            "Patience",
+            "Adventures"
+        ]
+    },
+    {
+        "id": 100,
+        "question": "If love was weather, yours would be:",
+        "options": [
+            "Sunny",
+            "Stormy",
+            "Calm breeze",
+            "Rainbow"
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Know Your Friends – Compatibility Test</title>
+  <!-- Playfair Display Font -->
+   <link rel="shortcut icon" href="img/logo.jpeg" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="landing-page-style.css" />
+  <script async crossorigin="anonymous"
+    data-clerk-publishable-key="pk_test_aW5maW5pdGUtcGxhdHlwdXMtOTIuY2xlcmsuYWNjb3VudHMuZGV2JA"
+    src="https://infinite-platypus-92.clerk.accounts.dev/npm/@clerk/clerk-js@5/dist/clerk.browser.js"
+    type="text/javascript">
+    </script>
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+      <div class="nav-brand">
+          <img src="img/logo.jpeg" alt="Game Logo" class="nav-logo">
+      </div>
+      <div class="nav-menu">
+          <button class="nav-btn" id="home-btn" title="Home">
+              <div class="nav-icon-container">
+                  <svg viewBox="0 0 24 24" class="nav-icon">
+                      <path fill="currentColor" d="M12,3L20,9V21H15V14H9V21H4V9L12,3Z" />
+                  </svg>
+              </div>
+          </button>
+          <button class="nav-btn" id="leaderboard-nav-btn" title="Leaderboard">
+              <div class="nav-icon-container">
+                  <svg viewBox="0 0 24 24" class="nav-icon">
+                      <path fill="currentColor"
+                          d="M17,12A5,5 0 0,1 12,17A5,5 0 0,1 7,12C7,11.7 7.03,11.41 7.09,11.13L8.34,12.34L10.84,9.84L14.34,13.34L16.59,11.13C16.97,11.34 17,11.66 17,12M12,3A9,9 0 0,0 3,12A9,9 0 0,0 12,21A9,9 0 0,0 21,12A9,9 0 0,0 12,3M12,19A7,7 0 0,1 5,12A7,7 0 0,1 12,5A7,7 0 0,1 19,12A7,7 0 0,1 12,19M11.5,9.92L9.5,12L11.5,14.08L14.5,11.08L16.5,13.08V7H10.5V9L11.5,9.92Z" />
+                  </svg>
+              </div>
+          </button>
+          <button class="nav-btn" id="rules-btn" title="How to Play">
+              <div class="nav-icon-container">
+                  <svg viewBox="0 0 24 24" width="24" height="24">
+                      <path fill="#000000"
+                          d="M11,18H13V16H11V18M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4 20,7.59 20,12C20,16.41 16.41,20 12,20M12,6A4,4 0 0,0 8,10H10A2,2 0 0,1 12,8A2,2 0 0,1 14,10C14,12 11,11.75 11,15H13C13,12.75 16,12.5 16,10A4,4 0 0,0 12,6Z">
+                      </path>
+                  </svg>
+              </div>
+          </button>
+      </div>
+  </nav>
+
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="content">
+      <h1>Be First to<br><span>Test Your Compatibility</span></h1>
+      <p class="subtext">
+        India's most fun & viral <strong>Know Your Friends</strong> test.  
+        Create your quiz, share it, compare answers & laugh together!
+      </p>
+
+      <p class="highlight">
+        Early Access now open — create your test & see how well your friends know you.
+      </p>
+
+      <a class="cta-btn" href="app.html#create">Start Compatibility Test →</a>
+
+      <div class="trust-info">
+        <span>✔ 100% Free</span>
+        <span>✔ No Signup Needed</span>
+        <span>✔ Share Instantly</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURES SECTION -->
+  <section class="features">
+    <h2>Why Everyone Loves This Test</h2>
+
+    <div class="cards">
+      <div class="card">
+        <h3>🎭 Fun & Personal</h3>
+        <p>Create a custom quiz & let friends guess your <br> answers.</p>
+      </div>
+
+      <div class="card">
+        <h3>📊 Auto Score</h3>
+        <p>We automatically compare answers & show who knows you best.</p>
+      </div>
+
+      <div class="card">
+        <h3>🚀 Viral Share</h3>
+        <p>One-click share for WhatsApp, Instagram & Snapchat.</p>
+      </div>
+    </div>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  <script src="landing-page.js"></script>
+
+</body>
+</html>
