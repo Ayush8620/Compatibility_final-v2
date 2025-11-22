@@ -1,4 +1,4 @@
-/*********************************************************************************
+ /*********************************************************************************
  * Know Your Friend / Compatibility Game - script.fixed.js
  *
  * Fixed and cleaned version of the original script.js

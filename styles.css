@@ -81,6 +81,15 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+/* ...existing code... */
+.cta-logo {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin: 0 20px;
+}
+/* ...existing code... */
+
 /* 🚀 Dynamic Background & Global Styling */
 body {
     font-family: var(--font-family);

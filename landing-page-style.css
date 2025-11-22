@@ -9,7 +9,7 @@
 :root {
     /* Crensa Palette */
     --crensa-navy: #01164D;
-    --crensa-green: #62CF6F;
+    --crensa-green: #6284cf;
     --crensa-teal: #00BA9C;
     --crensa-rose: #D9208F;
     --crensa-pink: #C81D84;
@@ -272,6 +272,11 @@ body {
 .features {
     padding: 2px 40px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .features h2 {
@@ -289,6 +294,16 @@ body {
     max-width: 1200px;
     margin: 0 auto;
 }
+.card1 {
+    background: white;
+
+    padding: 30px 20px;
+    width: 100%;
+    max-width:1000px;
+    border-radius: 18px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
 
 .card {
     background: white;
@@ -297,12 +312,35 @@ body {
     max-width: 320px;
     border-radius: 18px;
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
+    transition: transform 0.3s 
+ease, box-shadow 0.3s 
+ease;
+    margin: 50px;
+   }
 
 .card:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+.cta-container {
+    display: flex; /* Aligns children (logos and button) in a row */
+    align-items: center; /* Vertically centers all items */
+    justify-content: center; /* Horizontally centers the entire group */
+    margin-top: 20px; /* Add some space above the group */
+}
+/* ...existing code... */
+.cta-logo {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin: 0 20px;
+}
+/* ...existing code... */
+.cta-btn {
+    /* ... existing button styles ... */
+    /* Ensure no large left/right margins here that would push the logos too far */
+    display: inline-block;
+    padding: 10px 20px;
 }
 
 .card h3 {
@@ -373,6 +411,7 @@ body {
 @media (max-width: 480px) {
     body {
         padding-top: 60px;
+        color: rgb(95, 159, 223)
     }
 
     .hero {
